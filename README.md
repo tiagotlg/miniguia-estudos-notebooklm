@@ -1,5 +1,18 @@
 # 📚 Caderno Temático — Uso de IA no Aprendizado de Programação
 
+## 📑 Índice
+
+- [📌 Contexto](#-contexto)
+- [🎯 Objetivos](#-objetivos)
+- [📖 Curadoria de Fontes](#-curadoria-de-fontes)
+- [🤖 Engenharia de Prompts](#-engenharia-de-prompts)
+- [🧪 Casos Práticos de Uso da IA](#-casos-práticos-de-uso-da-ia)
+- [📘 Miniguia de Estudo](#-miniguia-de-estudo)
+- [📖 Glossário](#-glossário)
+- [🔁 Prompts Reutilizáveis](#-prompts-reutilizáveis)
+- [🧾 Conclusão](#-conclusão)
+- [💡 Aprendizados Obtidos](#-aprendizados-obtidos)
+
 Projeto desenvolvido como parte de um desafio da **DIO (Digital Innovation One)** utilizando **NotebookLM** e técnicas de **Engenharia de Prompts** para explorar o uso da Inteligência Artificial no aprendizado de programação.
 
 ## 🛠️ Ferramentas e recursos utilizados
@@ -299,6 +312,17 @@ No entanto, seu uso deve ser acompanhado de **pensamento crítico**, garantindo 
 
 ---
 
+# 💡 Aprendizados Obtidos
+
+Durante o desenvolvimento deste projeto foi possível observar que:
+
+- A Inteligência Artificial pode acelerar significativamente o processo de aprendizado de programação.
+- A qualidade das respostas depende muito da forma como os prompts são estruturados.
+- Ferramentas como NotebookLM ajudam na organização e análise de múltiplas fontes de informação.
+- A utilização crítica da IA é essencial para evitar dependência excessiva ou aprendizado superficial.
+
+---
+
 # 👨‍💻 Autor
 
-Projeto desenvolvido por **Tiago Tavares** como parte de um desafio da **DIO**.
+Projeto desenvolvido por **Tiago Tavares** como parte de um desafio da **DIO (Digital Innovation One)**.
